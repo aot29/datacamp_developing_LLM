@@ -5,3 +5,5 @@ torchmetrics
 torchtext
 jupyterlab
 pandas
+scikit-learn
+matplotlib
